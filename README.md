@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Hasnain Khan
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning React and Node Js
-- 💞️ I’m looking to collaborate on Node js
+- 🌱 I’m currently Work On ODOO ERP
+- 💞️ I’m looking to collaborate on ODOO
 - 📫 How to reach me (you can contact me via Gmail: kkhasnain342@gmail.com) 
 
 <!---
